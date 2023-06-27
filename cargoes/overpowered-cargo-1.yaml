@@ -1,0 +1,17 @@
+abbreviation: OC
+available: false
+classes: 32
+colour: 8
+id: 0
+label: OVPC
+longName: overpowered cargo 1
+name: Overpowered Cargo 1
+penaltyLength: 0
+penaltyLowerBound: 0
+price: 4.1120627450980393e+21
+sprite:
+  filename: cargoes/overpowered-cargo-1.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 0
