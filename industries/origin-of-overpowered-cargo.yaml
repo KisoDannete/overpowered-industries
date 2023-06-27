@@ -1,0 +1,17 @@
+available: false
+callbacks: ''
+cargoAcceptance: []
+cargoProduction:
+- OVPC
+colour: 1
+fundCostMultiplier: 0
+id: 0
+layout:
+- - - -1
+name: Origin of Overpowered Cargo
+placement: anywhere
+probabilityInGame: 30
+probabilityMapGen: 30
+prospectChance: 100
+tiles: []
+type: primary
