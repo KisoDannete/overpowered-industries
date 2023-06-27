@@ -3,14 +3,14 @@ callbacks: ''
 cargoAcceptance: []
 cargoProduction: []
 colour: 1
-fundCostMultiplier: 100
+fundCostMultiplier: 0
 id: 1
 layout:
 - - - -1
 name: Destination of Overpowered Cargo
 placement: anywhere
-probabilityInGame: 5
-probabilityMapGen: 3
-prospectChance: 75
+probabilityInGame: 30
+probabilityMapGen: 30
+prospectChance: 100
 tiles: []
 type: primary
